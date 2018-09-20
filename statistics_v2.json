@@ -1,0 +1,781 @@
+{
+	"users": {
+		"total": 478,
+		"gender": {
+			"male": 382,
+			"female": 95
+		},
+		"country": {},
+		"language": {
+			"en_US": 23,
+			"da_DK": 442,
+			"en_GB": 11,
+			"de_DE": 1,
+			"pl_PL": 1
+		},
+		"growth": [
+			{
+				"week": 26,
+				"weekStartTimestamp": 1530286166893,
+				"weekEndTimestamp": 1530890966893,
+				"users": 1
+			},
+			{
+				"week": 27,
+				"weekStartTimestamp": 1530286310301,
+				"weekEndTimestamp": 1530891110301,
+				"users": 10
+			},
+			{
+				"week": 28,
+				"weekStartTimestamp": 1530948570721,
+				"weekEndTimestamp": 1531553370721,
+				"users": 14
+			},
+			{
+				"week": 29,
+				"weekStartTimestamp": 1531578038820,
+				"weekEndTimestamp": 1532182838820,
+				"users": 9
+			},
+			{
+				"week": 30,
+				"weekStartTimestamp": 1532254506052,
+				"weekEndTimestamp": 1532859306052,
+				"users": 9
+			},
+			{
+				"week": 31,
+				"weekStartTimestamp": 1532883072745,
+				"weekEndTimestamp": 1533487872745,
+				"users": 4
+			},
+			{
+				"week": 32,
+				"weekStartTimestamp": 1533549195091,
+				"weekEndTimestamp": 1534153995091,
+				"users": 7
+			},
+			{
+				"week": 33,
+				"weekStartTimestamp": 1534260320687,
+				"weekEndTimestamp": 1534865120687,
+				"users": 172
+			},
+			{
+				"week": 34,
+				"weekStartTimestamp": 1534866553191,
+				"weekEndTimestamp": 1535471353191,
+				"users": 32
+			},
+			{
+				"week": 35,
+				"weekStartTimestamp": 1535532021675,
+				"weekEndTimestamp": 1536136821675,
+				"users": 133
+			},
+			{
+				"week": 36,
+				"weekStartTimestamp": 1536137159054,
+				"weekEndTimestamp": 1536741959054,
+				"users": 82
+			},
+			{
+				"week": 37,
+				"weekStartTimestamp": 1536749354683,
+				"weekEndTimestamp": 1537354154683,
+				"users": 5
+			}
+		]
+	},
+	"sessions": {
+		"averageDuration": "6.60 minutes.",
+		"averageMessagesPerSession": "5.58"
+	},
+	"messages": {
+		"total": 25880,
+		"averagePerConversation": "54.14",
+		"averageNlpQuestionsPerConversation": "4.55",
+		"nlpTotalQuestions": 2175,
+		"nlpSuccessTotal": 1531,
+		"nlpFailsTotal": 644,
+		"nlpAverageRetries": "2.58",
+		"usersThatContactedSupport": 46,
+		"usersThatSaidThanks": 114,
+		"usersThatStoppedAfterFirstMessage": 21,
+		"mostActiveHoursOfTheDay": [
+			{
+				"hour": "8:00 - 9:00",
+				"messages": 726
+			},
+			{
+				"hour": "9:00 - 10:00",
+				"messages": 651
+			},
+			{
+				"hour": "15:00 - 16:00",
+				"messages": 564
+			},
+			{
+				"hour": "12:00 - 13:00",
+				"messages": 561
+			},
+			{
+				"hour": "14:00 - 15:00",
+				"messages": 540
+			},
+			{
+				"hour": "13:00 - 14:00",
+				"messages": 520
+			},
+			{
+				"hour": "20:00 - 21:00",
+				"messages": 488
+			},
+			{
+				"hour": "10:00 - 11:00",
+				"messages": 472
+			},
+			{
+				"hour": "11:00 - 12:00",
+				"messages": 449
+			},
+			{
+				"hour": "21:00 - 22:00",
+				"messages": 437
+			},
+			{
+				"hour": "7:00 - 8:00",
+				"messages": 416
+			},
+			{
+				"hour": "19:00 - 20:00",
+				"messages": 411
+			},
+			{
+				"hour": "16:00 - 17:00",
+				"messages": 391
+			},
+			{
+				"hour": "17:00 - 18:00",
+				"messages": 368
+			},
+			{
+				"hour": "18:00 - 19:00",
+				"messages": 361
+			},
+			{
+				"hour": "23:00 - 24:00",
+				"messages": 220
+			},
+			{
+				"hour": "6:00 - 7:00",
+				"messages": 170
+			},
+			{
+				"hour": "22:00 - 23:00",
+				"messages": 166
+			},
+			{
+				"hour": "5:00 - 6:00",
+				"messages": 86
+			},
+			{
+				"hour": "4:00 - 5:00",
+				"messages": 47
+			},
+			{
+				"hour": "3:00 - 4:00",
+				"messages": 16
+			},
+			{
+				"hour": "0:00 - 1:00",
+				"messages": 8
+			}
+		],
+		"mostAskedQuestions": [
+			{
+				"key": "hvor meget må jeg få i løn?",
+				"value": 444
+			},
+			{
+				"key": "hvor meget må jeg arbejde?",
+				"value": 238
+			},
+			{
+				"key": "hvor lang en pause skal jeg have?",
+				"value": 81
+			},
+			{
+				"key": "hvad må jeg få i tillæg?",
+				"value": 77
+			},
+			{
+				"key": "hvor meget ferie må jeg holde?",
+				"value": 51
+			},
+			{
+				"key": "hvad skal jeg have i løn?",
+				"value": 37
+			},
+			{
+				"key": "hvad gør jeg, hvis jeg bliver syg?",
+				"value": 26
+			},
+			{
+				"key": "har jeg ret til en ansættelseskontrakt?",
+				"value": 18
+			},
+			{
+				"key": "hvordan siger jeg op?",
+				"value": 18
+			},
+			{
+				"key": "hvor meget skal jeg have i løn?",
+				"value": 15
+			}
+		],
+		"mostAskedQuestionsWeekly": {
+			"total": 1219,
+			"weekSplit": [
+				{
+					"week": 26,
+					"weekStartTimestamp": 1530286764735,
+					"weekEndTimestamp": 1530891564735,
+					"questions": [
+						{
+							"key": "hvor meget må jeg arbejde?",
+							"value": 1
+						}
+					],
+					"weekTotalQuestionsAsked": 1,
+					"weekTotalUsers": 1
+				},
+				{
+					"week": 27,
+					"weekStartTimestamp": 1530286847878,
+					"weekEndTimestamp": 1530891647878,
+					"questions": [
+						{
+							"key": "hvor meget må jeg få i løn?",
+							"value": 3
+						},
+						{
+							"key": "hvor lang en pause skal jeg have?",
+							"value": 1
+						},
+						{
+							"key": "hvor meget må jeg arbejde?",
+							"value": 1
+						},
+						{
+							"key": "hvad med tillæg?",
+							"value": 1
+						}
+					],
+					"weekTotalQuestionsAsked": 23,
+					"weekTotalUsers": 6
+				},
+				{
+					"week": 28,
+					"weekStartTimestamp": 1530948601891,
+					"weekEndTimestamp": 1531553401891,
+					"questions": [
+						{
+							"key": "hvor meget må jeg arbejde?",
+							"value": 3
+						},
+						{
+							"key": "hvor meget må jeg få i løn?",
+							"value": 2
+						},
+						{
+							"key": "hvor meget ferie må jeg holde?",
+							"value": 2
+						},
+						{
+							"key": "får jeg løn når jeg er syg?",
+							"value": 1
+						},
+						{
+							"key": "hvad må jeg få i tillæg?",
+							"value": 1
+						},
+						{
+							"key": "hvor meget ferie må jeg holde? 😊",
+							"value": 1
+						},
+						{
+							"key": "skal vi have en ny regering?",
+							"value": 1
+						}
+					],
+					"weekTotalQuestionsAsked": 15,
+					"weekTotalUsers": 11
+				},
+				{
+					"week": 29,
+					"weekStartTimestamp": 1531656739467,
+					"weekEndTimestamp": 1532261539467,
+					"questions": [
+						{
+							"key": "hvor meget må jeg arbejde?",
+							"value": 2
+						},
+						{
+							"key": "hvor meget må jeg få i løn?",
+							"value": 2
+						},
+						{
+							"key": "hvor meget må jeg løfte?",
+							"value": 1
+						},
+						{
+							"key": "hvad skal jeg gøre hvis min chef klapper mig i røven?",
+							"value": 1
+						},
+						{
+							"key": "hvordan siger jeg op?",
+							"value": 1
+						},
+						{
+							"key": "har jeg ret til en ansættelseskontrakt?",
+							"value": 1
+						}
+					],
+					"weekTotalQuestionsAsked": 13,
+					"weekTotalUsers": 8
+				},
+				{
+					"week": 30,
+					"weekStartTimestamp": 1532262439216,
+					"weekEndTimestamp": 1532867239216,
+					"questions": [
+						{
+							"key": "hvor meget må jeg arbejde?",
+							"value": 2
+						},
+						{
+							"key": "hvor meget må jeg få i løn?",
+							"value": 2
+						},
+						{
+							"key": "hejsa. jeg tænkte på om i vil gi en besked videre til jobpatruljen i nordjylland?\ndet er ang. en bager i aalestrup",
+							"value": 1
+						},
+						{
+							"key": "hej. jeg hørte i radioen at i er på sydfyn i denne uge ??",
+							"value": 1
+						},
+						{
+							"key": "hejsa. jeg talte med en af de unge medarbejdere i bilka bistro i går. der var mega varmt i hele butikken. vedkommende fortalte at deres aircon er gået i stykker og at de havde fået at vide at det ikke har en prioritet at få det lavet. så nu arbejder alle under virkelig elendige forhold. især i bistroen hvor der er ovne, frituregryder osv. også ud fra et rent hygiejnisk perspektiv er det ikke ok at de står og sveder så det drypper henover maden. mon det var noget i ville se på? kh mette",
+							"value": 1
+						},
+						{
+							"key": "har jeg ret til en ansættelseskontrakt?",
+							"value": 1
+						},
+						{
+							"key": "hvad må jeg få i tillæg?",
+							"value": 1
+						}
+					],
+					"weekTotalQuestionsAsked": 16,
+					"weekTotalUsers": 9
+				},
+				{
+					"week": 31,
+					"weekStartTimestamp": 1532949003290,
+					"weekEndTimestamp": 1533553803290,
+					"questions": [
+						{
+							"key": "hvor meget må jeg arbejde?",
+							"value": 2
+						},
+						{
+							"key": "hvad er mindstelønnen?",
+							"value": 1
+						},
+						{
+							"key": "hvor meget må jeg få i løn?",
+							"value": 1
+						}
+					],
+					"weekTotalQuestionsAsked": 7,
+					"weekTotalUsers": 4
+				},
+				{
+					"week": 32,
+					"weekStartTimestamp": 1533558474467,
+					"weekEndTimestamp": 1534163274467,
+					"questions": [
+						{
+							"key": "hvor meget må jeg arbejde?",
+							"value": 2
+						},
+						{
+							"key": "hvor meget må jeg få i løn?",
+							"value": 2
+						},
+						{
+							"key": "hvad må jeg få i tillæg?",
+							"value": 1
+						},
+						{
+							"key": "hvor meget skal jeg have i løn om måneden?",
+							"value": 1
+						},
+						{
+							"key": "hvad er det du ikke forstår ???\ndet er i kasselinjen i bilka, hundig . i butikscentret waves.",
+							"value": 1
+						},
+						{
+							"key": "hvilke maskiner og kemikaler må jeg bruge?",
+							"value": 1
+						}
+					],
+					"weekTotalQuestionsAsked": 46,
+					"weekTotalUsers": 8
+				},
+				{
+					"week": 33,
+					"weekStartTimestamp": 1534172359755,
+					"weekEndTimestamp": 1534777159755,
+					"questions": [
+						{
+							"key": "hvor meget må jeg få i løn?",
+							"value": 73
+						},
+						{
+							"key": "hvor meget må jeg arbejde?",
+							"value": 31
+						},
+						{
+							"key": "hvad gør jeg, hvis jeg bliver syg?",
+							"value": 8
+						},
+						{
+							"key": "hvad må jeg få i tillæg?",
+							"value": 6
+						},
+						{
+							"key": "hvad skal jeg have i løn?",
+							"value": 4
+						},
+						{
+							"key": "er der en mindsteløn i dk?",
+							"value": 3
+						},
+						{
+							"key": "hvor meget skal jeg have i løn?",
+							"value": 2
+						},
+						{
+							"key": "jeg er 14 år hvad kan jeg arbejde med?",
+							"value": 1
+						},
+						{
+							"key": "hvad er min mindsteløn?",
+							"value": 1
+						},
+						{
+							"key": "hvor mange timer må jeg arbejde på en dag?",
+							"value": 1
+						}
+					],
+					"weekTotalQuestionsAsked": 373,
+					"weekTotalUsers": 146
+				},
+				{
+					"week": 34,
+					"weekStartTimestamp": 1534779393476,
+					"weekEndTimestamp": 1535384193476,
+					"questions": [
+						{
+							"key": "hvor meget må jeg få i løn?",
+							"value": 27
+						},
+						{
+							"key": "hvor meget må jeg arbejde?",
+							"value": 9
+						},
+						{
+							"key": "hvor lang en pause skal jeg have?",
+							"value": 3
+						},
+						{
+							"key": "hvad må jeg få i tillæg?",
+							"value": 3
+						},
+						{
+							"key": "hvad skal jeg have i løn?",
+							"value": 3
+						},
+						{
+							"key": "hvordan siger jeg op?",
+							"value": 2
+						},
+						{
+							"key": "har jeg krav på en måneds opsigelse i netto?",
+							"value": 1
+						},
+						{
+							"key": "hvor meget skal jeg have i løn?",
+							"value": 1
+						},
+						{
+							"key": "hvem er du?",
+							"value": 1
+						},
+						{
+							"key": "hvad skal jeg bede om at få i løn?",
+							"value": 1
+						}
+					],
+					"weekTotalQuestionsAsked": 148,
+					"weekTotalUsers": 53
+				},
+				{
+					"week": 35,
+					"weekStartTimestamp": 1535391865518,
+					"weekEndTimestamp": 1535996665518,
+					"questions": [
+						{
+							"key": "hvor meget må jeg få i løn?",
+							"value": 43
+						},
+						{
+							"key": "hvor meget må jeg arbejde?",
+							"value": 17
+						},
+						{
+							"key": "hvad skal jeg have i løn?",
+							"value": 6
+						},
+						{
+							"key": "hvad må jeg få i tillæg?",
+							"value": 4
+						},
+						{
+							"key": "hvor meget skal jeg have i løn?",
+							"value": 3
+						},
+						{
+							"key": "har jeg ret til en ansættelseskontrakt?",
+							"value": 2
+						},
+						{
+							"key": "hej..\nnår man arbejder i føtex i kasse linen og har en vagt fra 17 - 21.15 og bliver sendt hjem kl. 19.15 pga føtex ikke har råd til at have dem på arbejde. (de lader en der under oplæring blive og de gamle medarbejder sendes hjem) \nkan føtex godt så med loven på deres side undlade at give dem løn som det deres arbejdsplan sagde altså 21.15?",
+							"value": 1
+						},
+						{
+							"key": "hvad skal jeg ha i løn?",
+							"value": 1
+						},
+						{
+							"key": "do you speak english?",
+							"value": 1
+						},
+						{
+							"key": "kan jeg få tillæg?",
+							"value": 1
+						}
+					],
+					"weekTotalQuestionsAsked": 244,
+					"weekTotalUsers": 89
+				},
+				{
+					"week": 36,
+					"weekStartTimestamp": 1535999028878,
+					"weekEndTimestamp": 1536603828878,
+					"questions": [
+						{
+							"key": "hvor meget må jeg få i løn?",
+							"value": 43
+						},
+						{
+							"key": "hvor meget må jeg arbejde?",
+							"value": 27
+						},
+						{
+							"key": "hvad skal jeg have i løn?",
+							"value": 9
+						},
+						{
+							"key": "hvor meget ferie må jeg holde?",
+							"value": 5
+						},
+						{
+							"key": "hvor lang en pause skal jeg have?",
+							"value": 3
+						},
+						{
+							"key": "hvad gør jeg, hvis jeg bliver syg?",
+							"value": 3
+						},
+						{
+							"key": "hvor meget skal jeg have i løn?",
+							"value": 3
+						},
+						{
+							"key": "jeg er 17 år og arbejder i meny, hvad skal jeg have i løn?",
+							"value": 1
+						},
+						{
+							"key": "hvor meget må jeg arbejde ved siden af mit fuldtidsstudie?",
+							"value": 1
+						},
+						{
+							"key": "hej.\njeg har lige læste et opslag fra legeland holbæk, hvor de søger en medarbejder. betingelsen for ansættelse er en prøvevagt på 3-4 timer, ulønnet... er det ok?\nvenlig hilsen\nsussi læssøe",
+							"value": 1
+						}
+					],
+					"weekTotalQuestionsAsked": 274,
+					"weekTotalUsers": 113
+				},
+				{
+					"week": 37,
+					"weekStartTimestamp": 1536607649598,
+					"weekEndTimestamp": 1537212449598,
+					"questions": [
+						{
+							"key": "hvor meget må jeg få i løn?",
+							"value": 8
+						},
+						{
+							"key": "hvor meget må jeg arbejde?",
+							"value": 3
+						},
+						{
+							"key": "har jeg ret til en ansættelseskontrakt?",
+							"value": 1
+						},
+						{
+							"key": "hvad skal jeg have i løn ?",
+							"value": 1
+						},
+						{
+							"key": "hej. er der en maks løn man må tjene i timen når man er under 15 år?",
+							"value": 1
+						},
+						{
+							"key": "hvad skal jeg tjene?",
+							"value": 1
+						},
+						{
+							"key": "hvordan siger jeg op?",
+							"value": 1
+						}
+					],
+					"weekTotalQuestionsAsked": 42,
+					"weekTotalUsers": 16
+				},
+				{
+					"week": 38,
+					"weekStartTimestamp": 1537254659714,
+					"weekEndTimestamp": 1537859459714,
+					"questions": [
+						{
+							"key": "hvor meget må jeg få i løn?",
+							"value": 4
+						},
+						{
+							"key": "hvor mange timer må jeg arbejde om ugen?",
+							"value": 1
+						},
+						{
+							"key": "hvor lang en pause skal jeg have?",
+							"value": 1
+						},
+						{
+							"key": "hvad er min mindste løn, som 14 årig?",
+							"value": 1
+						}
+					],
+					"weekTotalQuestionsAsked": 17,
+					"weekTotalUsers": 7
+				}
+			]
+		},
+		"growth": [
+			{
+				"week": 26,
+				"weekStartTimestamp": 1530286166915,
+				"weekEndTimestamp": 1530890966915,
+				"messages": 1
+			},
+			{
+				"week": 27,
+				"weekStartTimestamp": 1530286167617,
+				"weekEndTimestamp": 1530890967617,
+				"messages": 477
+			},
+			{
+				"week": 28,
+				"weekStartTimestamp": 1530900101208,
+				"weekEndTimestamp": 1531504901208,
+				"messages": 395
+			},
+			{
+				"week": 29,
+				"weekStartTimestamp": 1531578038834,
+				"weekEndTimestamp": 1532182838834,
+				"messages": 271
+			},
+			{
+				"week": 30,
+				"weekStartTimestamp": 1532205688155,
+				"weekEndTimestamp": 1532810488155,
+				"messages": 400
+			},
+			{
+				"week": 31,
+				"weekStartTimestamp": 1532883072763,
+				"weekEndTimestamp": 1533487872763,
+				"messages": 109
+			},
+			{
+				"week": 32,
+				"weekStartTimestamp": 1533549195104,
+				"weekEndTimestamp": 1534153995104,
+				"messages": 763
+			},
+			{
+				"week": 33,
+				"weekStartTimestamp": 1534163303833,
+				"weekEndTimestamp": 1534768103833,
+				"messages": 7724
+			},
+			{
+				"week": 34,
+				"weekStartTimestamp": 1534768191504,
+				"weekEndTimestamp": 1535372991504,
+				"messages": 2968
+			},
+			{
+				"week": 35,
+				"weekStartTimestamp": 1535373625518,
+				"weekEndTimestamp": 1535978425518,
+				"messages": 5288
+			},
+			{
+				"week": 36,
+				"weekStartTimestamp": 1535978435205,
+				"weekEndTimestamp": 1536583235205,
+				"messages": 6249
+			},
+			{
+				"week": 37,
+				"weekStartTimestamp": 1536607634733,
+				"weekEndTimestamp": 1537212434733,
+				"messages": 901
+			},
+			{
+				"week": 38,
+				"weekStartTimestamp": 1537254655247,
+				"weekEndTimestamp": 1537859455247,
+				"messages": 334
+			}
+		]
+	}
+}
